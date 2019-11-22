@@ -1,3 +1,8 @@
+---
+title: "Worlds-End"
+date: 2019-11-22
+---
+
 Life is going to change in the Fututure.
 We know it.
 But politticians refuse to act upon it.
